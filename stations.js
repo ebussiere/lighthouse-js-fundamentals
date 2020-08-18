@@ -16,5 +16,4 @@ const stations = [
   ['Bright Lights Elementary', 50, 'school'],
   ['Moose Mountain Community Centre', 45, 'community centre'],
 ];
-
 chooseStations(stations);
