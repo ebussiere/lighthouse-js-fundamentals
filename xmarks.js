@@ -20,6 +20,7 @@ const finalPosition = function (moves) {
   }
   position.push(x);
   position.push(y);
+  console.log(position);
   return position;
 };
 const moves = ['north', 'north', 'west', 'west', 'north', 'east', 'north'];
